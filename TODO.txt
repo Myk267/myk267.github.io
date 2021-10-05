@@ -1,1 +1,0 @@
-When I run index.php, generate the index.html page, complete with tags, dates, etc.
